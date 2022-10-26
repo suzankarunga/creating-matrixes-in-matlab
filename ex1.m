@@ -21,7 +21,6 @@ z=0.7*(w*y+6*x);
 z
 T=z-(w+x/z) + (x+y)^3/sqrt(abs(x*y*w));
 T
-H=log(
 
 
 
